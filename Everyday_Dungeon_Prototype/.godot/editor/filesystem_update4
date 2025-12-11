@@ -1,0 +1,9 @@
+res://Screens/home_screen.tscn
+res://button_theme.tres
+res://scripts/creature_data.gd
+res://scripts/creatures_saveload.gd
+res://Objects/task_system.tscn
+res://Screens/creatures_screen.tscn
+res://scripts/xp_txt.gd
+res://scripts/creatures_screen.gd
+res://scripts/level_txt.gd

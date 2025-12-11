@@ -1,0 +1,78 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1765423195
+button_theme.tres::Theme::3988275528503537096::1765423095::0::1::::<><><>0<>0<><>::
+icon.svg::CompressedTexture2D::243712927128669815::1765423095::1765423196::1::::<><><>0<>0<>57442cc2ea8bec9b9ee431a2c82d6d7d<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://addons/::1765423095
+::res://addons/calendar_library/::1765423095
+calendar.gd::GDScript::7488840155296661163::1765423095::0::1::::Calendar<>RefCounted<><>0<>0<><>::
+calendar_locale.gd::GDScript::4635697581394045227::1765423095::0::1::::CalendarLocale<>Resource<><>0<>0<><>::
+documentation.md::TextFile::-1::1765423095::0::1::::<><><>0<>0<><>::
+::res://addons/calendar_library/demo/::1765423095
+calendar_demo.gd::GDScript::3342396800600315276::1765423095::0::1::::<>Control<><>0<>0<><>::
+calendar_demo.tscn::PackedScene::3787715382056069721::1765423095::0::1::::<><><>0<>0<><>::res://addons/calendar_library/demo/calendar_demo.gd
+calendar_locale_CN.tres::Resource/CalendarLocale::4206286448575685960::1765423095::0::1::::<><><>0<>0<><>::res://addons/calendar_library/calendar_locale.gd
+calendar_locale_DE.tres::Resource/CalendarLocale::5450436672353865054::1765423095::0::1::::<><><>0<>0<><>::res://addons/calendar_library/calendar_locale.gd
+calendar_locale_EN.tres::Resource/CalendarLocale::101201811265250262::1765423095::0::1::::<><><>0<>0<><>::res://addons/calendar_library/calendar_locale.gd
+calendar_locale_ES.tres::Resource/CalendarLocale::2237919560193441496::1765423095::0::1::::<><><>0<>0<><>::res://addons/calendar_library/calendar_locale.gd
+calendar_locale_SE.tres::Resource/CalendarLocale::7681016959923112112::1765423095::0::1::::<><><>0<>0<><>::res://addons/calendar_library/calendar_locale.gd
+::res://Button Images/::1765423095
+Achievements 2.png::CompressedTexture2D::7931321987989624398::1765423095::1765423196::1::::<><><>0<>0<>2c7a2920e87669442d42682b325ae38f<>res://.godot/imported/Achievements 2.png-c80ca5448ca5000d560cc63ed20f6b3f.ctex::
+Alternate_BG.jpg::CompressedTexture2D::2819501669828537586::1765423095::1765423197::1::::<><><>0<>0<>6a253a638eb6f16892c7b41e38117a3b<>res://.godot/imported/Alternate_BG.jpg-1f94fc5f7bfeb6847241df84da058c13.ctex::
+Battles 2.png::CompressedTexture2D::6148421508915199653::1765423095::1765423196::1::::<><><>0<>0<>bcb4f2b4026c28758d62b4b922da65fc<>res://.godot/imported/Battles 2.png-3a67ed4a599fa7937460979e448c64d9.ctex::
+Cog 2.png::CompressedTexture2D::569419806213271810::1765423095::1765423196::1::::<><><>0<>0<>cf57d0666603a7ec2cd753885a979e6d<>res://.godot/imported/Cog 2.png-4af605cff7246ab831f144ef4172be35.ctex::
+Creatures 2.png::CompressedTexture2D::2898331833543028582::1765423095::1765423196::1::::<><><>0<>0<>e563994571c4f9e5fb27bc0883761d64<>res://.godot/imported/Creatures 2.png-8a622046ccda253579d00cd101e61399.ctex::
+Creatures 3.png::CompressedTexture2D::7981744446355122178::1765423095::1765423196::1::::<><><>0<>0<>a0691ab7e6b51138ca36bafe0a2fb23b<>res://.godot/imported/Creatures 3.png-a3ed536d0e7b2b97f7548162edd9e1b2.ctex::
+Crown 2.png::CompressedTexture2D::3552843800730076559::1765423095::1765423196::1::::<><><>0<>0<>c814a61e4912449ade9d7098c2319cbf<>res://.godot/imported/Crown 2.png-8bf180c415532df42f9fc1f4c0de6b50.ctex::
+Home.png::CompressedTexture2D::1615684201027231282::1765423095::1765423196::1::::<><><>0<>0<>57d8bdb07fefd61e5aa83690ffe4a9cd<>res://.godot/imported/Home.png-e5ab676cbdc71faf300e7e47ca94c7d6.ctex::
+MainBG.jpg::CompressedTexture2D::3564999051079324946::1765423095::1765423197::1::::<><><>0<>0<>449af77da13e6a731ff1cfeb946d838c<>res://.godot/imported/MainBG.jpg-a79d87a3f2a893aaca16acb65c64e67d.ctex::
+Pressed-Achievements 2.png::CompressedTexture2D::7118808940276061718::1765423095::1765423196::1::::<><><>0<>0<>4fe33195ba5130b8049e6055f18b45dd<>res://.godot/imported/Pressed-Achievements 2.png-872fb4068c41c46a87a14685e4a16657.ctex::
+Pressed-Battles 2.png::CompressedTexture2D::6728818909590753429::1765423095::1765423196::1::::<><><>0<>0<>c375aaee602278562f29ba76bcd71fa2<>res://.godot/imported/Pressed-Battles 2.png-1b0221e8360b7df94f753e065b56aabc.ctex::
+Pressed-Creatures 2.png::CompressedTexture2D::530063508731202452::1765423095::1765423196::1::::<><><>0<>0<>102abba0fca9e1a73ff37a66a3bf2dee<>res://.godot/imported/Pressed-Creatures 2.png-ebc21e2c41cc992581214a8657eedfa3.ctex::
+Pressed-Creatures 3.png::CompressedTexture2D::9146545234188029794::1765423095::1765423196::1::::<><><>0<>0<>473b1404c9336f19892648f5f50cc043<>res://.godot/imported/Pressed-Creatures 3.png-448df7f293f516b2cd72c079a9c6438f.ctex::
+Pressed-Crown 2.png::CompressedTexture2D::1084640290864074449::1765423095::1765423196::1::::<><><>0<>0<>2646b0ad45cf83d577be0177468902d9<>res://.godot/imported/Pressed-Crown 2.png-8de635348f502b27eee12a01201b6c92.ctex::
+Pressed-Tasks 2.png::CompressedTexture2D::2310835727894007764::1765423095::1765423196::1::::<><><>0<>0<>1fe6e2715c3b9256a19de22e1d06f1cf<>res://.godot/imported/Pressed-Tasks 2.png-a3f785300bb7eefda1dce886b7ed8093.ctex::
+Pressed_Cog 2.png::CompressedTexture2D::8366254543129715926::1765423095::1765423196::1::::<><><>0<>0<>8dfeb8df6ee53cafe9c8dfcb4b4bc2eb<>res://.godot/imported/Pressed_Cog 2.png-d83620d8ddf66a72a4cb9e13596de615.ctex::
+Pressed_Home 2.png::CompressedTexture2D::4444996388338664301::1765423095::1765423196::1::::<><><>0<>0<>09ca02763fe37f5129fe78c54a5cb29a<>res://.godot/imported/Pressed_Home 2.png-1d04086965c50087f10ff1ce929110d2.ctex::
+Tasks 2.png::CompressedTexture2D::5300968795772744177::1765423095::1765423196::1::::<><><>0<>0<>ca03babe7eaffd6fcb72273ddf4584f9<>res://.godot/imported/Tasks 2.png-5a248d8cf02ee59e702b7a4e942305bd.ctex::
+::res://Creature Images/::1765423095
+BULB BULB.png::CompressedTexture2D::7146891592648985132::1765423095::1765423196::1::::<><><>0<>0<>3f68246206ab07d8d259acb82d805016<>res://.godot/imported/BULB BULB.png-b9404b6224bc0db8a2c20dd60dca6069.ctex::
+CHAR CHAR.png::CompressedTexture2D::1460526394817702890::1765423095::1765423196::1::::<><><>0<>0<>e4b0e7f61afeff4cd37c99d73d867689<>res://.godot/imported/CHAR CHAR.png-cbfc19082dafb75fda29dd796118775f.ctex::
+EEEEEEEE.png::CompressedTexture2D::804529476495749920::1765423095::1765423197::1::::<><><>0<>0<>c1d534bcad18458fe3cb49f289e12d4b<>res://.godot/imported/EEEEEEEE.png-b26c43b5d7bc1468f877bcfa88d58bb9.ctex::
+Goblin.png::CompressedTexture2D::7080599210495412097::1765423095::1765423196::1::::<><><>0<>0<>f17a18f86bb3448680b5fed171fcb530<>res://.godot/imported/Goblin.png-d5aae1e2a8e80c9117c51e0000dfabab.ctex::
+HYDRAte.png::CompressedTexture2D::8398347078680880610::1765423095::1765423196::1::::<><><>0<>0<>d15673cb9f9209fbd25b6563f83c327d<>res://.godot/imported/HYDRAte.png-5fc8a39a064a769ae7a0b097d80e48cc.ctex::
+PIKA PIKA.png::CompressedTexture2D::33987155157014782::1765423095::1765423196::1::::<><><>0<>0<>6a6d677d2ac36e1c7d7ad92cf7856881<>res://.godot/imported/PIKA PIKA.png-5106ead47354eb2aae68e041b6e8d5de.ctex::
+Sheep2.png::CompressedTexture2D::4341736137393687523::1765423095::1765423196::1::::<><><>0<>0<>6ff0e0d25b12b7f88415566babfda1e3<>res://.godot/imported/Sheep2.png-5f96aede691f47fd1ebe67d63fb28039.ctex::
+sheep.png::CompressedTexture2D::2950490040424165374::1765423095::1765423196::1::::<><><>0<>0<>8c558ece44f9507ebd18d42e8a30be4c<>res://.godot/imported/sheep.png-23ce41d4560656c5361785577c625916.ctex::
+Slime 2.0.png::CompressedTexture2D::9060591092128559516::1765423095::1765423196::1::::<><><>0<>0<>3615df7c847e899dea283b7df9c9ad92<>res://.godot/imported/Slime 2.0.png-dea183eb32ca4566dff17b946d23c185.ctex::
+Slime.png::CompressedTexture2D::3823618341416380948::1765423095::1765423198::1::::<><><>0<>0<>28bac53b4bae36f8386ec3d141335ce5<>res://.godot/imported/Slime.png-e69e4ef396fa50d1a3a12bdac72e1662.ctex::
+SQUIR.png::CompressedTexture2D::6076343385846117193::1765423095::1765423196::1::::<><><>0<>0<>c1ba18ede6061e006267ed7257dd1ba8<>res://.godot/imported/SQUIR.png-aa06856c096d2f8839c0d0683d6dda01.ctex::
+::res://data/::1765423095
+creaturePositions.txt::TextFile::-1::1765423095::0::1::::<><><>0<>0<><>::
+savedTasks.txt::TextFile::-1::1765423095::0::1::::<><><>0<>0<><>::
+::res://Objects/::1765423095
+creature.tscn::PackedScene::5684196512670765438::1765423095::0::1::::<><><>0<>0<><>::uid://bibie0ynd7gl7::::res://Creature Images/sheep.png<>uid://dt4sch6omafg6::::res://scripts/creature_movement.gd
+task_system.tscn::PackedScene::8487654868522714336::1765423095::0::1::::<><><>0<>0<><>::uid://bktootjcjpi26::::res://scripts/task_system.gd<>uid://xjc2f8rrxn6c::::res://scripts/task_menu.gd<>uid://uttm1kbw6pv2::::res://scripts/screen_2.gd<>uid://ch3jftw4iy7n8::::res://styles/multiButton.tres<>uid://xn8307qlxksw::::res://scripts/screen_3.gd<>uid://bgf11slo0vge1::::res://Button Images/Alternate_BG.jpg
+::res://Screens/::1765423095
+battle_screen.tscn::PackedScene::8823998793275725041::1765423095::0::1::::<><><>0<>0<><>::uid://dgqstl6d2bchi::::res://scripts/battle_screen.gd<>uid://bw27kyo8oueeq::::res://button_theme.tres<>uid://bq16apvlec3ja::::res://Button Images/MainBG.jpg<>uid://dk88yj2jbwuoc::::res://Button Images/Achievements 2.png<>uid://c8on0jd074m6a::::res://Button Images/Pressed-Achievements 2.png<>uid://chr3gf6a08nv2::::res://Button Images/Tasks 2.png<>uid://76nekutt7uwi::::res://Button Images/Pressed-Tasks 2.png<>uid://xawc2v41co4q::::res://Button Images/Home.png<>uid://b4lgo850tsyx6::::res://Button Images/Pressed_Home 2.png<>uid://ctulusf5ooj22::::res://Button Images/Battles 2.png<>uid://c24qwt8so1e34::::res://Button Images/Pressed-Battles 2.png<>uid://dlyofuuuo7gec::::res://Button Images/Creatures 3.png<>uid://d3kwi72xg4vbe::::res://Button Images/Pressed-Creatures 3.png<>uid://buqgo2m0q1k81::::res://Creature Images/Slime.png
+creatures_screen.tscn::PackedScene::7002320366945998206::1765423095::0::1::::<><><>0<>0<><>::uid://sfbws4aq3gi::::res://scripts/creatures_screen.gd<>uid://bw27kyo8oueeq::::res://button_theme.tres<>uid://dk88yj2jbwuoc::::res://Button Images/Achievements 2.png<>uid://bgf11slo0vge1::::res://Button Images/Alternate_BG.jpg<>uid://c8on0jd074m6a::::res://Button Images/Pressed-Achievements 2.png<>uid://chr3gf6a08nv2::::res://Button Images/Tasks 2.png<>uid://76nekutt7uwi::::res://Button Images/Pressed-Tasks 2.png<>uid://xawc2v41co4q::::res://Button Images/Home.png<>uid://b4lgo850tsyx6::::res://Button Images/Pressed_Home 2.png<>uid://ctulusf5ooj22::::res://Button Images/Battles 2.png<>uid://c24qwt8so1e34::::res://Button Images/Pressed-Battles 2.png<>uid://dlyofuuuo7gec::::res://Button Images/Creatures 3.png<>uid://d3kwi72xg4vbe::::res://Button Images/Pressed-Creatures 3.png<>uid://b24f03nbjumbb::::res://Creature Images/Sheep2.png<>uid://c745o1j6f66ev::::res://Creature Images/Goblin.png<>uid://drwhsxcrug2ks::::res://Creature Images/HYDRAte.png<>uid://d2dau16edh8dk::::res://Creature Images/Slime 2.0.png
+goals_screen.tscn::PackedScene::6768030437300642775::1765423095::0::1::::<><><>0<>0<><>::uid://cb21okjpa5t7x::::res://scripts/goals_screen.gd<>uid://bw27kyo8oueeq::::res://button_theme.tres<>uid://dk88yj2jbwuoc::::res://Button Images/Achievements 2.png<>uid://chr3gf6a08nv2::::res://Button Images/Tasks 2.png<>uid://xawc2v41co4q::::res://Button Images/Home.png<>uid://ctulusf5ooj22::::res://Button Images/Battles 2.png<>uid://bgf11slo0vge1::::res://Button Images/Alternate_BG.jpg<>uid://c24qwt8so1e34::::res://Button Images/Pressed-Battles 2.png<>uid://76nekutt7uwi::::res://Button Images/Pressed-Tasks 2.png<>uid://b4lgo850tsyx6::::res://Button Images/Pressed_Home 2.png<>uid://c8on0jd074m6a::::res://Button Images/Pressed-Achievements 2.png<>uid://dlyofuuuo7gec::::res://Button Images/Creatures 3.png<>uid://d3kwi72xg4vbe::::res://Button Images/Pressed-Creatures 3.png
+home_screen.tscn::PackedScene::6623854204016327500::1765423095::0::1::::<><><>0<>0<><>::uid://bw27kyo8oueeq::::res://button_theme.tres<>uid://dk88yj2jbwuoc::::res://Button Images/Achievements 2.png<>uid://c8on0jd074m6a::::res://Button Images/Pressed-Achievements 2.png<>uid://bq16apvlec3ja::::res://Button Images/MainBG.jpg<>uid://xawc2v41co4q::::res://Button Images/Home.png<>uid://b4lgo850tsyx6::::res://Button Images/Pressed_Home 2.png<>uid://chr3gf6a08nv2::::res://Button Images/Tasks 2.png<>uid://76nekutt7uwi::::res://Button Images/Pressed-Tasks 2.png<>uid://ctulusf5ooj22::::res://Button Images/Battles 2.png<>uid://c24qwt8so1e34::::res://Button Images/Pressed-Battles 2.png<>uid://dlyofuuuo7gec::::res://Button Images/Creatures 3.png<>uid://d3kwi72xg4vbe::::res://Button Images/Pressed-Creatures 3.png<>uid://id3i4y6223i1::::res://Button Images/Cog 2.png<>uid://drgw8wo78t5uo::::res://Button Images/Pressed_Cog 2.png<>uid://dt4sch6omafg6::::res://scripts/creature_movement.gd<>uid://b24f03nbjumbb::::res://Creature Images/Sheep2.png<>uid://drwhsxcrug2ks::::res://Creature Images/HYDRAte.png<>uid://c745o1j6f66ev::::res://Creature Images/Goblin.png<>uid://d2dau16edh8dk::::res://Creature Images/Slime 2.0.png<>uid://nrtarqekh4i8::::res://scripts/creatures_saveload.gd<>uid://b3y6bvsu8kaka::::res://scripts/creature_data.gd
+tasks_screen.tscn::PackedScene::4373393521232970253::1765423095::0::1::::<><><>0<>0<><>::uid://206xv6bmjypt::::res://scripts/tasks_screen.gd<>uid://bw27kyo8oueeq::::res://button_theme.tres<>uid://dk88yj2jbwuoc::::res://Button Images/Achievements 2.png<>uid://bgf11slo0vge1::::res://Button Images/Alternate_BG.jpg<>uid://c8on0jd074m6a::::res://Button Images/Pressed-Achievements 2.png<>uid://chr3gf6a08nv2::::res://Button Images/Tasks 2.png<>uid://76nekutt7uwi::::res://Button Images/Pressed-Tasks 2.png<>uid://xawc2v41co4q::::res://Button Images/Home.png<>uid://b4lgo850tsyx6::::res://Button Images/Pressed_Home 2.png<>uid://ctulusf5ooj22::::res://Button Images/Battles 2.png<>uid://c24qwt8so1e34::::res://Button Images/Pressed-Battles 2.png<>uid://dlyofuuuo7gec::::res://Button Images/Creatures 3.png<>uid://d3kwi72xg4vbe::::res://Button Images/Pressed-Creatures 3.png<>uid://ds6qo2tyi4voi::::res://Objects/task_system.tscn
+::res://scripts/::1765423095
+battle_screen.gd::GDScript::7614552618744660950::1765423095::0::1::::<>Node2D<><>0<>0<><>::
+creatures_saveload.gd::GDScript::948703929785237117::1765423095::0::1::::<>Node<><>0<>0<><>::
+creatures_screen.gd::GDScript::37465354969284580::1765423095::0::1::::<>Node2D<><>0<>0<><>::
+creature_data.gd::GDScript::4403138515975141172::1765423095::0::1::::<>Node<><>0<>0<><>::
+creature_movement.gd::GDScript::8553813928731783999::1765423095::0::1::::<>Node<><>0<>0<><>::
+globalData.gd::GDScript::6728912315320181479::1765423095::0::1::::<>Node<><>0<>0<><>::
+goals_screen.gd::GDScript::4900372593129919795::1765423095::0::1::::<>Node2D<><>0<>0<><>::
+home_screen.gd::GDScript::500430898218428925::1765423095::0::1::::<>Node2D<><>0<>0<><>::
+saveTest.gd::GDScript::5761030015263174430::1765423095::0::1::::<>Node<><>0<>0<><>::
+screen_2.gd::GDScript::1444176483608424217::1765423095::0::1::::<>Node2D<><>0<>0<><>::
+screen_3.gd::GDScript::1643235340728229898::1765423095::0::1::::<>Node2D<><>0<>0<><>::
+tasks_screen.gd::GDScript::1948632673055085145::1765423095::0::1::::<>Node2D<><>0<>0<><>::
+task_data.gd::GDScript::3205226416492574115::1765423095::0::1::::TaskData<>RefCounted<><>0<>0<><>::
+task_menu.gd::GDScript::1633092768273584380::1765423095::0::1::::<>Node2D<><>0<>0<><>::
+task_system.gd::GDScript::3128408348364349789::1765423095::0::1::::<>Node2D<><>0<>0<><>::
+::res://styles/::1765423095
+multiButton.tres::StyleBoxFlat::5322522265129173819::1765423095::0::1::::<><><>0<>0<><>::
